@@ -1,0 +1,9 @@
+
+Front:
+    -> Criar uma interface simples para ser inserido a lista via web
+    -> Retornar os resultados
+
+Back:
+    -> Classes modelos
+    -> Api para comunicar com o front
+    -> Execute
